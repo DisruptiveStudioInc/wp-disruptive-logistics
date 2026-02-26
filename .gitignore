@@ -1,0 +1,6 @@
+.htaccess
+license.txt
+local-xdebuginfo.php
+readme.html
+wp-config.php
+docker-compose.yml
